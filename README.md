@@ -1,4 +1,4 @@
-Päiväkirja
+Oppimispäiväkirja
 
 Git-versionhallinta - SOF013AS2A-3002
 
