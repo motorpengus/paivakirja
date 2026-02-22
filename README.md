@@ -9,4 +9,5 @@ Tämä on kurssin "Git-versionhallinta - SOF013AS2A-3002" tehtävien päiväkirj
 [Päiväkirja 1](git-oppimispaivakirja/paivakirja1.md)
 
 [Päiväkirja 2](git-oppimispaivakirja/paivakirja2.md)
+
 [Päiväkirja 3](git-oppimispaivakirja/paivakirja3.md)
